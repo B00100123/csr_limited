@@ -171,12 +171,12 @@
               <!-- heading -->
               <h3>Phone</h3>
               <!-- paragraph -->
-              <p class="address">+91 (233)-233-23333</p>
+              <p class="address">+353 123 456789</p>
                 <br>
               <!-- heading -->
               <h3>Email</h3>
               <!-- paragraph -->
-              <p class="address"><a href="#">example@brando.uk</a></p>
+              <p class="address"><a href="#">example@example.com</a></p>
             </div>
             <div class="col-md-4">
               <img class="img-responsive map" src="{{ asset('web_assets/img/map.jpg') }}" alt="" />
