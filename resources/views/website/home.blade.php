@@ -176,7 +176,7 @@
               <!-- heading -->
               <h3>Email</h3>
               <!-- paragraph -->
-              <p class="address"><a href="#">example@example.com</a></p>
+              <p class="address"><a href="#">example@example.ie</a></p>
             </div>
             <div class="col-md-4">
               <img class="img-responsive map" src="{{ asset('web_assets/img/map.jpg') }}" alt="" />
